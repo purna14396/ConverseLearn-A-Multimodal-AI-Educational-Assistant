@@ -3,6 +3,10 @@
 **Enhancing Communication Skills with Real-Time Feedback and Adaptive Learning**
 
 ---
+## 🎥 Demo
+
+👉 [Click here to watch the demo](demo/Final_Demo_Updated.mp4)
+
 
 ## 🛠 Project Description
 ConverseLearn is an AI-driven educational platform that enhances communication skills through dynamic, multimodal learning.  
@@ -97,10 +101,6 @@ ConverseLearn addresses these issues by offering:
 
 ---
 
-## 🎥 Demo
-(📽️ Add your demo video link here)
-
----
 
 ## 📊 Progress Tracking Visualizations
 - **Score Over Time** (Line Chart)

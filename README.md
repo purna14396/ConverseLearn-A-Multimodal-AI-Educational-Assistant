@@ -41,7 +41,14 @@ ConverseLearn addresses these issues by offering:
 
 ## 🖼️ System Architecture
 
-![System Architecture](relative/path/to/your/image.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb35bc2d-b34f-44ad-a969-d21e42b03d2b" alt="System Architecture Part 1" width="700">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44bb7503-9917-480a-9402-9140d98ffabf" alt="System Architecture Part 2" width="700">
+</p>
+
 
 ---
 

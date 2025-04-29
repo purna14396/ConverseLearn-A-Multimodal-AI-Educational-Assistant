@@ -3,6 +3,14 @@
 **Enhancing Communication Skills with Real-Time Feedback and Adaptive Learning**
 
 ---
+
+## 🚀 Live App
+
+👉 [Click here to try it out](https://converselearn-a-multimodal-ai.onrender.com)
+
+---
+
+
 ## 🎥 Demo
 
 👉 [Click here to watch the demo](demo/Final_Demo_Updated.mp4)
